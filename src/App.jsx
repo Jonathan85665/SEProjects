@@ -24,4 +24,24 @@ const App = () => {
   )
 }
 
+const Header = () => {
+  return (
+    <div>
+    <Part />
+    <Part />
+    <Part />
+  </div>
+  )
+}
+const Content = () => {
+  return (
+
+  )
+}
+const Total = () => {
+  return (
+
+  )
+}
+
 export default App
